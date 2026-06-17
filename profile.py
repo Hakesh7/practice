@@ -1,0 +1,47 @@
+print("++=========================================++")
+print("||                                         ||")
+print("||          Welcome to the Profile         ||")
+print("||                                         ||")
+print("++=========================================++")
+print("This is the profile page where you can view and edit your personal information.")
+print("Here you can update your name, email, and other details.")
+print("Feel free to explore and make changes to your profile as needed.")
+print("Thank you for visiting your profile page!")
+
+print("++=========================================++")
+print("||                                         ||")
+print("||          End of Profile Page           ||")
+print("||                                         ||")
+print("++=========================================++")
+
+print("Returning to the main menu...")
+print("Please select an option from the main menu to continue.")
+print("Thank you for using our application. Have a great day!")
+print("Goodbye!")
+
+goodbye_message = "Thank you for visiting your profile page! We hope to see you again soon."
+print(goodbye_message)
+
+more_info = "For more information about your profile and settings, please visit the help section or contact support."
+print(more_info)
+
+reminder = "Don't forget to keep your profile information up to date for the best experience!"
+print(reminder)
+
+stay_connected = "Stay connected with us for updates and new features by following our social media channels."
+print(stay_connected)
+
+ask_for_feedback = "We value your feedback! Please let us know if you have any suggestions or comments about your profile experience."
+print(ask_for_feedback)
+
+profile_summary = "Your profile summary: Name: John Doe, Email: john.doe@example.com"
+print(profile_summary)
+
+name_change = "You can change your name by clicking on the 'Edit' button next to your name in the profile settings."
+print(name_change)
+
+email_change = "To update your email address, go to the profile settings and click on the 'Edit' button next to your email."
+print(email_change)
+
+password_change = "For security reasons, you can change your password in the profile settings under the 'Security' section."
+print(password_change)
