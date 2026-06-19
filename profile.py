@@ -47,3 +47,11 @@ password_reset = "If you have forgotten your password, you can reset it by click
 print(password_reset)
 
 
+INinfo = "Your profile information includes your name, email, and other personal details that you have provided."
+print(INinfo)
+
+"HITACHI Profile Information: Name: John Doe, Email: john.doe@example.com"
+print(HITACHI_profile_info)
+print("Your profile information is important to us, and we are committed to keeping it secure and up to date.")
+for i in range(5):
+    print(f"Profile update reminder {i+1}: Please review your profile information and make any necessary updates to ensure it is accurate and current.")    
