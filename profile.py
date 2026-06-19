@@ -37,14 +37,6 @@ print(ask_for_feedback)
 profile_summary = "Your profile summary: Name: John Doe, Email: john.doe@example.com"
 print(profile_summary)
 
-name_change = "You can change your name by clicking on the 'Edit' button next to your name in the profile settings."
-print(name_change)
-
-email_change = "To update your email address, go to the profile settings and click on the 'Edit' button next to your email."
-print(email_change)
-
-password_change = "For security reasons, you can change your password in the profile settings under the 'Security' section."
-print(password_change)
 
 encoded_message = "Your profile information is securely stored and encrypted to protect your privacy."
 print(encoded_message)
