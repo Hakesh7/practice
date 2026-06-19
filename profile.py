@@ -45,3 +45,13 @@ print(email_change)
 
 password_change = "For security reasons, you can change your password in the profile settings under the 'Security' section."
 print(password_change)
+
+encoded_message = "Your profile information is securely stored and encrypted to protect your privacy."
+print(encoded_message)
+
+print("Thank you for taking the time to review your profile. We appreciate your attention to detail and commitment to keeping your information accurate.")
+
+password_reset = "If you have forgotten your password, you can reset it by clicking on the 'Forgot Password' link on the login page."
+print(password_reset)
+
+
